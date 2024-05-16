@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a045d956-d187-49d8-a28d-2ee137f705f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab6/src/ApplicationMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/cloneable/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/cloneable/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/impl/ex6/ExampleSixImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/impl/ex6/InterfaceDefaultMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/interfaces/ex1/ChildInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/interfaces/ex1/ExampleOneImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/interfaces/ex1/InterfaceDefaultMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/interfaces/ex2/ChildInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/interfaces/ex2/ExampleTwoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/interfaces/ex2/InterfaceDefaultMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/interfaces/ex3/ChildInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/interfaces/ex3/ExampleThreeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/interfaces/ex3/InterfaceDefaultMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/interfaces/ex4/ChildInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/interfaces/ex4/ExampleFourImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/interfaces/ex4/InterfaceOneDefaultMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/interfaces/ex4/InterfaceTwoDefaultMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/interfaces/ex5/ChildInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/interfaces/ex5/InterfaceOneDefaultMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/interfaces/ex5/InterfaceTwoDefaultMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/enums/ApplicationMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/enums/MenuEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/enums/MenuSimpleEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/exceptions/ex1/ExceptionApplicationMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/exceptions/ex1/UserAlreadyExistsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2eazRPsIb1WaNLHoZG2wwqfvpbj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/work/trainings/universitate_pao/2023_sem_II/laboratoare"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ApplicationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ApplicationMain" />
+      <module name="lab5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="lab5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="lab5" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApplicationMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a045d956-d187-49d8-a28d-2ee137f705f8" name="Changes" comment="" />
+      <created>1712157470024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712157470024</updated>
+      <workItem from="1712157471190" duration="5550000" />
+      <workItem from="1712596218538" duration="5517000" />
+      <workItem from="1713299267221" duration="1136000" />
+      <workItem from="1713366562221" duration="635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+package exceptions.ex1;
+
+public class UserAlreadyExistsException extends RuntimeException {
+    public UserAlreadyExistsException(String message) {
+        super(message);
+    }
+}
